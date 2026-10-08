@@ -1,3 +1,4 @@
+#THIS IMPEMENTATION IS NO LONGER IN PRODUCTION
 # Lentopaikat.fi sovelluksen kehitys
 
 Kehittäjät:
